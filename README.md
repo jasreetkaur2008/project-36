@@ -1,1 +1,1 @@
-# project-36
+# INFINITE-RUNNER-GAME
